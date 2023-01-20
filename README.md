@@ -34,8 +34,8 @@ WHEN I close my browser, my to-do list is stored locally
 MOCK UP 
 
 
+![Mock](https://user-images.githubusercontent.com/118404373/213615450-a7ad439f-9c28-45b7-ae51-b072f465c4a4.gif)
 
-"C:\Users\mohha\Desktop\Mock.gif"
 
 
 
