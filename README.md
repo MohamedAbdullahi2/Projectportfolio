@@ -31,7 +31,12 @@ THEN I can check it off in a satisfying way
 WHEN I close my browser, my to-do list is stored locally
 ```
 
-The following animation (image) demonstrates the application functionality (look):
+MOCK UP 
+
+
+
+![image](https://user-images.githubusercontent.com/118404373/213615184-04e7e2ee-fe99-4dee-8141-acde6ae9a446.png)
+
 
 
 ## Local System to git repository and adding codes :-
