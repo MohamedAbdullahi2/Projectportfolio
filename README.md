@@ -34,12 +34,6 @@ WHEN I close my browser, my to-do list is stored locally
 The following animation (image) demonstrates the application functionality (look):
 
 
-
-
-
-
-
-
 ## Local System to git repository and adding codes :-
 
 
