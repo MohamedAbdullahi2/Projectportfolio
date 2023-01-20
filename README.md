@@ -35,7 +35,7 @@ MOCK UP
 
 
 
-![image](https://user-images.githubusercontent.com/118404373/213615184-04e7e2ee-fe99-4dee-8141-acde6ae9a446.png)
+"C:\Users\mohha\Desktop\Mock.gif"
 
 
 
